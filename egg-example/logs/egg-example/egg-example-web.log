@@ -1,0 +1,443 @@
+2024-07-01 12:28:53,304 ERROR 31010 [-/127.0.0.1/-/5008ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":6,"createSocketErrorCount":0,"closeSocketCount":6,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":6,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 7
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5005,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31010
+hostname: 192.168.0.101
+
+2024-07-01 12:29:10,053 ERROR 31048 [-/127.0.0.1/-/5028ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5018,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31048
+hostname: 192.168.0.101
+
+2024-07-01 12:29:47,380 ERROR 31048 [-/127.0.0.1/-/5005ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":7,"createSocketErrorCount":0,"closeSocketCount":7,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":6,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 8
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31048
+hostname: 192.168.0.101
+
+2024-07-01 12:29:59,800 ERROR 31095 [-/127.0.0.1/-/5025ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5016,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31095
+hostname: 192.168.0.101
+
+2024-07-01 12:31:27,181 ERROR 31095 [-/127.0.0.1/-/5315ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/item/40837610.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":10,"createSocketErrorCount":0,"closeSocketCount":7,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":8,"freeSockets":{},"sockets":{"hacker-news.firebaseio.com:443:::::::::::::::::::::":3},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 11
+data: undefined
+path: "/v0/item/40837610.json"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5001,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/item/40837610.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31095
+hostname: 192.168.0.101
+
+2024-07-01 12:31:34,442 ERROR 31095 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":11,"createSocketErrorCount":0,"closeSocketCount":11,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":8,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 14
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31095
+hostname: 192.168.0.101
+
+2024-07-01 12:32:16,717 ERROR 31095 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":12,"createSocketErrorCount":0,"closeSocketCount":12,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":8,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 15
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31095
+hostname: 192.168.0.101
+
+2024-07-01 12:32:23,021 ERROR 31095 [-/127.0.0.1/-/5007ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":13,"createSocketErrorCount":0,"closeSocketCount":13,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":8,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 16
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31095
+hostname: 192.168.0.101
+
+2024-07-01 12:32:31,527 ERROR 31095 [-/127.0.0.1/-/5006ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":14,"createSocketErrorCount":0,"closeSocketCount":14,"errorSocketCount":0,"timeoutSocketCount":5,"requestCount":8,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/urllib/lib/urllib.js:988:15)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+name: "ConnectionTimeoutError"
+requestId: 17
+data: undefined
+path: "/v0/topstories.json?orderBy=%22%24key%22&startAt=%220%22&endAt=%224%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5004,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31095
+hostname: 192.168.0.101
+
+2024-07-01 14:38:45,077 ERROR 33878 [-/127.0.0.1/-/7ms GET /upload] nodejs.TypeError: Cannot read properties of undefined (reading '0')
+    at UploadController.upload (/Users/taohao/Vite/egg/egg-example/app/controller/upload.js:9:35)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/taohao/Vite/egg/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/taohao/Vite/egg/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 33878
+hostname: 192.168.0.101
+
+2024-07-01 14:45:07,599 ERROR 34124 [-/127.0.0.1/-/7ms GET /upload] nodejs.TypeError: Cannot read properties of undefined (reading '0')
+    at UploadController.upload (/Users/taohao/Vite/egg/egg-example/app/controller/upload.js:9:35)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/Users/taohao/Vite/egg/egg-example/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:44:32)
+    at next (/Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:45:18)
+    at /Users/taohao/Vite/egg/egg-example/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:44:32)
+    at /Users/taohao/Vite/egg/egg-example/node_modules/koa-compose/index.js:36:12
+
+pid: 34124
+hostname: 192.168.0.101
+
+2024-07-01 14:47:03,249 WARN 34150 [-/127.0.0.1/-/10ms POST /upload?_csrf=Sl5gffw6-_VMkXOHFhb5KFeqQTQ2NAivo2co] nodejs.Error: Invalid filename: favicon.ico
+    at options.checkFile (/Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/lib/utils.js:68:21)
+    at Multipart.onFile (/Users/taohao/Vite/egg/egg-example/node_modules/co-busboy/index.js:120:17)
+    at Multipart.emit (node:events:513:28)
+    at HeaderParser.cb (/Users/taohao/Vite/egg/egg-example/node_modules/busboy/lib/types/multipart.js:358:14)
+    at HeaderParser.push (/Users/taohao/Vite/egg/egg-example/node_modules/busboy/lib/types/multipart.js:162:20)
+    at SBMH.ssCb [as _cb] (/Users/taohao/Vite/egg/egg-example/node_modules/busboy/lib/types/multipart.js:394:37)
+    at feed (/Users/taohao/Vite/egg/egg-example/node_modules/streamsearch/lib/sbmh.js:219:14)
+    at SBMH.push (/Users/taohao/Vite/egg/egg-example/node_modules/streamsearch/lib/sbmh.js:104:16)
+    at Multipart._write (/Users/taohao/Vite/egg/egg-example/node_modules/busboy/lib/types/multipart.js:567:19)
+    at writeOrBuffer (node:internal/streams/writable:391:12)
+status: 400
+pid: 34150
+hostname: 192.168.0.101
+
+2024-07-01 14:56:47,258 ERROR 34564 [-/127.0.0.1/-/0ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (node:events:513:28)
+    at Handshake._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    --------------------
+    at Protocol._enqueue (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:350:12)
+    at Pool.query (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 34564
+hostname: 192.168.0.101
+
+2024-07-01 15:15:38,657 ERROR 35982 [-/127.0.0.1/-/0ms GET /] nodejs.PROTOCOL_SEQUENCE_TIMEOUTError: Handshake inactivity timeout
+    at Handshake.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:160:17)
+    at Handshake.emit (node:events:513:28)
+    at Handshake._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Sequence.js:124:8)
+    at Timer._onTimeout (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Timer.js:32:23)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+    --------------------
+    at Protocol._enqueue (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:144:48)
+    at Protocol.handshake (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:51:23)
+    at PoolConnection.connect (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:116:18)
+    at Pool.getConnection (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:48:16)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    at Pool.getConnection (node:internal/util:350:12)
+    at Pool.query (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:202:8)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    sql: select now() as currentTime;
+code: "PROTOCOL_SEQUENCE_TIMEOUT"
+fatal: true
+timeout: 10000
+name: "PROTOCOL_SEQUENCE_TIMEOUTError"
+pid: 35982
+hostname: 192.168.0.101
+
+2024-07-01 16:10:28,208 ERROR 38682 [-/127.0.0.1/-/69ms POST /creatOrUpdata] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '_csrf' in 'field list'
+    at Query.Sequence._packetToError (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:350:12)
+    at RDSClient._query (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/client.js:33:33)
+    at RDSClient.query (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/operator.js:62:31)
+    at RDSClient.insert (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/operator.js:159:27)
+    at UserService.creatOrUpdata (/Users/taohao/Vite/egg/egg-example/app/service/user.js:33:38)
+    at UserController.creatOrUpdata (/Users/taohao/Vite/egg/egg-example/app/controller/user.js:20:47)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    sql: INSERT INTO `userInfo`(`_csrf`) VALUES('ZLrrROl1-CR6H-iINQvrrzHE0KJ6iXQZrT4A')
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '_csrf' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `userInfo`(`_csrf`) VALUES('ZLrrROl1-CR6H-iINQvrrzHE0KJ6iXQZrT4A')"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 38682
+hostname: 192.168.0.101
+
+2024-07-01 16:11:17,725 ERROR 38682 [-/127.0.0.1/-/55ms POST /creatOrUpdata] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '_csrf' in 'field list'
+    at Query.Sequence._packetToError (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:350:12)
+    at RDSClient._query (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/client.js:33:33)
+    at RDSClient.query (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/operator.js:62:31)
+    at RDSClient.insert (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/operator.js:159:27)
+    at UserService.creatOrUpdata (/Users/taohao/Vite/egg/egg-example/app/service/user.js:33:38)
+    at UserController.creatOrUpdata (/Users/taohao/Vite/egg/egg-example/app/controller/user.js:20:47)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    sql: INSERT INTO `userInfo`(`_csrf`) VALUES('ZLrrROl1-CR6H-iINQvrrzHE0KJ6iXQZrT4A')
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '_csrf' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `userInfo`(`_csrf`) VALUES('ZLrrROl1-CR6H-iINQvrrzHE0KJ6iXQZrT4A')"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 38682
+hostname: 192.168.0.101
+
+2024-07-01 16:11:23,740 ERROR 38682 [-/127.0.0.1/-/56ms POST /creatOrUpdata?_csrf=0k0LIakF-7vs3S53zhMeLQzEvUbUfug6VcW0] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '_csrf' in 'field list'
+    at Query.Sequence._packetToError (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)
+    at Query.ErrorPacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)
+    at Protocol._parsePacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:291:23)
+    at Parser._parsePacket (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Parser.js:433:10)
+    at Parser.write (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Parser.js:43:10)
+    at Protocol.write (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/protocol/Protocol.js:38:16)
+    at Socket.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:88:28)
+    at Socket.<anonymous> (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Connection.js:526:10)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    --------------------
+    at Pool.query (/Users/taohao/Vite/egg/egg-example/node_modules/mysql/lib/Pool.js:199:23)
+    at node:internal/util:364:7
+    at new Promise (<anonymous>)
+    at Pool.query (node:internal/util:350:12)
+    at RDSClient._query (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/client.js:33:33)
+    at RDSClient.query (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/operator.js:62:31)
+    at RDSClient.insert (/Users/taohao/Vite/egg/egg-example/node_modules/ali-rds/lib/operator.js:159:27)
+    at UserService.creatOrUpdata (/Users/taohao/Vite/egg/egg-example/app/service/user.js:33:38)
+    at UserController.creatOrUpdata (/Users/taohao/Vite/egg/egg-example/app/controller/user.js:20:47)
+    at Object.callFn (/Users/taohao/Vite/egg/egg-example/node_modules/egg-core/lib/utils/index.js:44:21)
+    sql: INSERT INTO `userInfo`(`_csrf`) VALUES('V1eVjSvE-5_vDp4_ZIYNUHlvq3BYyPIV8Ua0')
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '_csrf' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "INSERT INTO `userInfo`(`_csrf`) VALUES('V1eVjSvE-5_vDp4_ZIYNUHlvq3BYyPIV8Ua0')"
+name: "ER_BAD_FIELD_ERRORError"
+pid: 38682
+hostname: 192.168.0.101
+
+2024-07-01 19:15:55,096 ERROR 42433 [-/127.0.0.1/-/15ms GET /] nodejs.RequestError: getaddrinfo ENOTFOUND localhost, POST http://localhost:8000/getUserList -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":1,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"localhost:8000:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -3008
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "localhost"
+name: "RequestError"
+data: undefined
+path: "/getUserList"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":6,"keepAliveSocket":false,"requestUrls":["http://localhost:8000/getUserList"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 42433
+hostname: 192.168.0.101
+
+2024-07-01 19:16:35,350 ERROR 42456 [-/127.0.0.1/-/14ms GET /] nodejs.RequestError: getaddrinfo ENOTFOUND localhost, POST http://localhost:8000/getUserList -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":1,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"localhost:8000:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -3008
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "localhost"
+name: "RequestError"
+data: undefined
+path: "/getUserList"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":6,"keepAliveSocket":false,"requestUrls":["http://localhost:8000/getUserList"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 42456
+hostname: 192.168.0.101
+
+2024-07-01 19:18:00,885 ERROR 42495 [-/127.0.0.1/-/13ms GET /] nodejs.RequestError: connect ECONNREFUSED 127.0.0.1:8000, GET http://127.0.0.1:8000/getUserList -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":1,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"127.0.0.1:8000:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -61
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 8000
+name: "RequestError"
+data: undefined
+path: "/getUserList"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5,"keepAliveSocket":false,"requestUrls":["http://127.0.0.1:8000/getUserList"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 42495
+hostname: 192.168.0.101
+
+2024-07-01 19:18:02,017 ERROR 42495 [-/127.0.0.1/-/4ms GET /] nodejs.RequestError: connect ECONNREFUSED 127.0.0.1:8000, GET http://127.0.0.1:8000/getUserList -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":2,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"127.0.0.1:8000:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1278:16)
+    at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -61
+code: "ECONNREFUSED"
+syscall: "connect"
+address: "127.0.0.1"
+port: 8000
+name: "RequestError"
+data: undefined
+path: "/getUserList"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":3,"keepAliveSocket":false,"requestUrls":["http://127.0.0.1:8000/getUserList"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 42495
+hostname: 192.168.0.101
+
+2024-07-01 19:19:02,770 ERROR 42510 [-/127.0.0.1/-/28ms GET /] nodejs.RequestError: getaddrinfo ENOTFOUND getuserlist, GET http:///getUserList -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":1,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"getuserlist:80:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:109:26)
+    at GetAddrInfoReqWrap.callbackTrampoline (node:internal/async_hooks:130:17)
+errno: -3008
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "getuserlist"
+name: "RequestError"
+data: undefined
+path: "/"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":24,"keepAliveSocket":false,"requestUrls":["http://getuserlist/"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 42510
+hostname: 192.168.0.101
+
+2024-07-01 19:43:06,953 WARN 43422 [-/127.0.0.1/-/2ms POST /getUserList] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2024-07-01 19:43:06,955 WARN 43422 [-/127.0.0.1/-/3ms POST /getUserList] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (/Users/taohao/Vite/egg/egg-example/node_modules/koa/lib/context.js:97:11)
+    at Object.assertCsrf (/Users/taohao/Vite/egg/egg-example/node_modules/egg-security/app/extend/context.js:165:32)
+    at csrf (/Users/taohao/Vite/egg/egg-example/node_modules/egg-security/lib/middlewares/csrf.js:37:9)
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/taohao/Vite/egg/egg-example/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/taohao/Vite/egg/egg-example/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at multipart (/Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/middleware/multipart.js:10:38)
+    at dispatch (/Users/taohao/Vite/egg/egg-example/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+message: "missing csrf token"
+pid: 43422
+hostname: 192.168.0.101
+

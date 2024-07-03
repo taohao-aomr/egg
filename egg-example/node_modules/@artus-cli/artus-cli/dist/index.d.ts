@@ -1,0 +1,17 @@
+import 'reflect-metadata';
+import { ArtusApplication } from '@artus/core';
+import { ArtusCliOptions } from './types';
+export * from '@artus/core';
+export { Context } from '@artus/pipeline';
+export * from './core/decorators';
+export * from './core/program';
+export * from './core/utils';
+export * from './core/bin_info';
+export * from './errors';
+export * from './types';
+export * from './core/command';
+export * from './core/context';
+export * from './core/parsed_commands';
+export * from './core/parsed_command';
+export * from './core/parsed_command_tree';
+export declare function start(options?: ArtusCliOptions): Promise<ArtusApplication | null>;

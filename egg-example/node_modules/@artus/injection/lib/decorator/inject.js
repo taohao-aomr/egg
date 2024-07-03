@@ -1,0 +1,39 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.Inject = void 0;
+const util_1 = require("../util");
+const constant_1 = require("../constant");
+const error_1 = require("../error");
+function Inject(idOrOptions) {
+    const options = ((0, util_1.isObject)(idOrOptions) ? idOrOptions : { id: idOrOptions });
+    return (target, propertyKey, index) => {
+        if ((0, util_1.isObject)(target)) {
+            target = target.constructor;
+        }
+        let propertyType = options.id;
+        if (!propertyType && propertyKey) {
+            propertyType = (0, util_1.getDesignTypeMetadata)(target.prototype, propertyKey);
+        }
+        if (!propertyType && (0, util_1.isNumber)(index)) {
+            const paramTypes = (0, util_1.getParamMetadata)(target);
+            propertyType = paramTypes === null || paramTypes === void 0 ? void 0 : paramTypes[index];
+        }
+        if (!propertyType || (0, util_1.isPrimitiveFunction)(propertyType)) {
+            throw new error_1.CannotInjectValueError(target, propertyKey !== null && propertyKey !== void 0 ? propertyKey : index);
+        }
+        if (!(0, util_1.isUndefined)(index)) {
+            if (options.lazy) {
+                throw new error_1.LazyInjectConstructorError(target.name);
+            }
+            const metadata = ((0, util_1.getMetadata)(constant_1.CLASS_CONSTRUCTOR_ARGS, target) || []);
+            metadata.push(Object.assign(Object.assign({}, options), { id: propertyType, index }));
+            (0, util_1.setMetadata)(constant_1.CLASS_CONSTRUCTOR_ARGS, metadata, target);
+            return;
+        }
+        const metadata = ((0, util_1.getMetadata)(constant_1.CLASS_PROPERTY, target) || []);
+        metadata.push(Object.assign(Object.assign({}, options), { id: propertyType, propertyName: propertyKey }));
+        (0, util_1.setMetadata)(constant_1.CLASS_PROPERTY, metadata, target);
+    };
+}
+exports.Inject = Inject;
+//# sourceMappingURL=inject.js.map

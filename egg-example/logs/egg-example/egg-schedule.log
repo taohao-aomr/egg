@@ -1,0 +1,270 @@
+2024-07-01 11:08:37,095 INFO 30664 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 11:08:37,095 INFO 30664 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 11:08:37,095 INFO 30664 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 11:08:37,130 INFO 30664 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 62482871ms at 2024-07-02 04:30:00.001
+2024-07-01 11:08:37,130 INFO 30664 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 46282870ms at 2024-07-02 00:00:00.000
+2024-07-01 11:08:37,131 INFO 30664 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 46283870ms at 2024-07-02 00:00:01.001
+2024-07-01 12:21:39,128 INFO 30918 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 58100873ms at 2024-07-02 04:30:00.001
+2024-07-01 12:21:39,129 INFO 30918 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41900871ms at 2024-07-02 00:00:00.000
+2024-07-01 12:21:39,129 INFO 30918 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41901871ms at 2024-07-02 00:00:01.000
+2024-07-01 12:21:39,083 INFO 30921 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:21:39,083 INFO 30921 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:21:39,083 INFO 30921 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:22:31,379 INFO 30935 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:22:31,380 INFO 30935 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:22:31,380 INFO 30935 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:23:56,329 INFO 30951 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:23:56,329 INFO 30951 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:23:56,329 INFO 30951 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:25:08,227 INFO 30961 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:25:08,227 INFO 30961 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:25:08,227 INFO 30961 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:25:24,059 INFO 30970 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:25:24,059 INFO 30970 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:25:24,059 INFO 30970 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:25:45,967 INFO 30975 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:25:45,967 INFO 30975 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:25:45,967 INFO 30975 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:25:50,486 INFO 30987 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:25:50,486 INFO 30987 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:25:50,486 INFO 30987 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:26:06,842 INFO 30990 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:26:06,842 INFO 30990 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:26:06,842 INFO 30990 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:28:20,473 INFO 31010 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:28:20,473 INFO 31010 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:28:20,473 INFO 31010 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:29:02,792 INFO 31048 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:29:02,792 INFO 31048 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:29:02,792 INFO 31048 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:29:52,434 INFO 31092 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57607568ms at 2024-07-02 04:30:00.002
+2024-07-01 12:29:52,434 INFO 31092 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41407566ms at 2024-07-02 00:00:00.000
+2024-07-01 12:29:52,434 INFO 31092 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41408566ms at 2024-07-02 00:00:01.000
+2024-07-01 12:29:52,392 INFO 31095 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:29:52,392 INFO 31095 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:29:52,392 INFO 31095 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:34:58,641 INFO 31232 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:34:58,641 INFO 31232 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:34:58,641 INFO 31232 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:35:06,928 INFO 31242 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:35:06,928 INFO 31242 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:35:06,928 INFO 31242 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:35:11,843 INFO 31264 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 57288159ms at 2024-07-02 04:30:00.002
+2024-07-01 12:35:11,843 INFO 31264 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 41088157ms at 2024-07-02 00:00:00.000
+2024-07-01 12:35:11,843 INFO 31264 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 41089157ms at 2024-07-02 00:00:01.000
+2024-07-01 12:35:11,812 INFO 31265 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:35:11,812 INFO 31265 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:35:11,812 INFO 31265 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:36:41,565 INFO 31276 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:36:41,565 INFO 31276 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:36:41,565 INFO 31276 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:44:02,042 INFO 31308 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:44:02,043 INFO 31308 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:44:02,043 INFO 31308 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:44:02,857 INFO 31309 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:44:02,857 INFO 31309 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:44:02,857 INFO 31309 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:44:04,185 INFO 31312 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:44:04,185 INFO 31312 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:44:04,185 INFO 31312 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:44:49,676 INFO 31324 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:44:49,676 INFO 31324 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:44:49,676 INFO 31324 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:45:12,048 INFO 31334 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:45:12,049 INFO 31334 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:45:12,049 INFO 31334 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:45:14,546 INFO 31337 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:45:14,547 INFO 31337 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:45:14,547 INFO 31337 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:45:47,896 INFO 31342 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:45:47,896 INFO 31342 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:45:47,896 INFO 31342 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:46:05,786 INFO 31349 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:46:05,787 INFO 31349 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:46:05,787 INFO 31349 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:46:09,830 INFO 31352 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:46:09,830 INFO 31352 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:46:09,830 INFO 31352 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:47:02,420 INFO 31362 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:47:02,420 INFO 31362 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:47:02,420 INFO 31362 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:47:11,272 INFO 31370 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:47:11,272 INFO 31370 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:47:11,272 INFO 31370 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:48:18,540 INFO 31396 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:48:18,540 INFO 31396 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:48:18,540 INFO 31396 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:48:23,678 INFO 31400 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:48:23,679 INFO 31400 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:48:23,679 INFO 31400 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:48:37,842 INFO 31408 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:48:37,842 INFO 31408 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:48:37,842 INFO 31408 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:49:25,747 INFO 31423 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:49:25,747 INFO 31423 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:49:25,747 INFO 31423 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:50:31,721 INFO 31449 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:50:31,721 INFO 31449 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:50:31,721 INFO 31449 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:50:50,685 INFO 31455 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:50:50,685 INFO 31455 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:50:50,685 INFO 31455 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:51:10,585 INFO 31463 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:51:10,585 INFO 31463 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:51:10,585 INFO 31463 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:51:14,527 INFO 31472 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:51:14,527 INFO 31472 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:51:14,527 INFO 31472 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:51:20,302 INFO 31480 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:51:20,302 INFO 31480 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:51:20,302 INFO 31480 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:51:30,965 INFO 31490 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:51:30,965 INFO 31490 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:51:30,965 INFO 31490 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:51:49,903 INFO 31498 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:51:49,903 INFO 31498 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:51:49,903 INFO 31498 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:51:51,469 INFO 31502 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:51:51,469 INFO 31502 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:51:51,469 INFO 31502 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:53:11,454 INFO 31509 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:53:11,454 INFO 31509 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:53:11,454 INFO 31509 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:53:15,718 INFO 31520 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:53:15,718 INFO 31520 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:53:15,718 INFO 31520 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:53:17,301 INFO 31523 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:53:17,301 INFO 31523 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:53:17,301 INFO 31523 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:54:06,896 INFO 31527 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:54:06,896 INFO 31527 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:54:06,896 INFO 31527 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:57:41,790 INFO 31613 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:57:41,790 INFO 31613 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:57:41,790 INFO 31613 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:58:51,521 INFO 31625 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:58:51,521 INFO 31625 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:58:51,521 INFO 31625 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:59:10,447 INFO 31634 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:59:10,447 INFO 31634 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:59:10,447 INFO 31634 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 12:59:44,352 INFO 31649 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 12:59:44,352 INFO 31649 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 12:59:44,352 INFO 31649 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 13:01:10,250 INFO 31692 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 13:01:10,251 INFO 31692 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 13:01:10,251 INFO 31692 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 13:01:14,041 INFO 31713 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 55725960ms at 2024-07-02 04:30:00.001
+2024-07-01 13:01:14,041 INFO 31713 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 39525959ms at 2024-07-02 00:00:00.000
+2024-07-01 13:01:14,042 INFO 31713 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 39526959ms at 2024-07-02 00:00:01.001
+2024-07-01 13:01:14,011 INFO 31715 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 13:01:14,011 INFO 31715 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 13:01:14,011 INFO 31715 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:35:19,987 INFO 33700 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:35:19,987 INFO 33700 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:35:19,987 INFO 33700 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:35:21,587 INFO 33708 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:35:21,587 INFO 33708 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:35:21,587 INFO 33708 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:36:34,025 INFO 33783 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:36:34,025 INFO 33783 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:36:34,025 INFO 33783 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:37:06,226 INFO 33797 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:37:06,226 INFO 33797 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:37:06,226 INFO 33797 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:38:00,386 INFO 33858 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:38:00,386 INFO 33858 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:38:00,386 INFO 33858 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:38:35,712 INFO 33874 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:38:35,712 INFO 33874 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:38:35,712 INFO 33874 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:38:37,759 INFO 33877 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:38:37,759 INFO 33877 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:38:37,759 INFO 33877 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:38:38,700 INFO 33878 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:38:38,700 INFO 33878 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:38:38,700 INFO 33878 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:41:42,325 INFO 33918 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:41:42,325 INFO 33918 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:41:42,325 INFO 33918 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:45:04,098 INFO 34123 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49495903ms at 2024-07-02 04:30:00.001
+2024-07-01 14:45:04,099 INFO 34123 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33295902ms at 2024-07-02 00:00:00.001
+2024-07-01 14:45:04,099 INFO 34123 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33296901ms at 2024-07-02 00:00:01.000
+2024-07-01 14:45:04,053 INFO 34124 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:45:04,053 INFO 34124 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:45:04,053 INFO 34124 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:46:36,376 INFO 34140 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:46:36,377 INFO 34140 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:46:36,377 INFO 34140 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:46:37,366 INFO 34143 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:46:37,366 INFO 34143 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:46:37,366 INFO 34143 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:46:43,784 INFO 34150 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:46:43,784 INFO 34150 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:46:43,784 INFO 34150 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:50:29,556 INFO 34178 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:50:29,556 INFO 34178 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:50:29,556 INFO 34178 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:53:51,156 INFO 34316 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:53:51,156 INFO 34316 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:53:51,156 INFO 34316 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 14:56:37,201 INFO 34564 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 14:56:37,201 INFO 34564 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 14:56:37,201 INFO 34564 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 15:15:28,597 INFO 35982 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 15:15:28,597 INFO 35982 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 15:15:28,597 INFO 35982 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 15:16:19,273 INFO 36017 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 47620728ms at 2024-07-02 04:30:00.001
+2024-07-01 15:16:19,274 INFO 36017 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 31420727ms at 2024-07-02 00:00:00.001
+2024-07-01 15:16:19,274 INFO 36017 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 31421726ms at 2024-07-02 00:00:01.000
+2024-07-01 15:16:19,227 INFO 36018 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 15:16:19,227 INFO 36018 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 15:16:19,227 INFO 36018 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 15:57:21,002 INFO 38530 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 45159000ms at 2024-07-02 04:30:00.002
+2024-07-01 15:57:21,002 INFO 38530 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 28958998ms at 2024-07-02 00:00:00.000
+2024-07-01 15:57:21,002 INFO 38530 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 28959998ms at 2024-07-02 00:00:01.000
+2024-07-01 15:57:20,845 INFO 38533 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 15:57:20,845 INFO 38533 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 15:57:20,845 INFO 38533 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 16:00:47,268 INFO 38597 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 16:00:47,268 INFO 38597 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 16:00:47,268 INFO 38597 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 16:02:01,912 INFO 38641 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 16:02:01,912 INFO 38641 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 16:02:01,912 INFO 38641 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 16:06:19,469 INFO 38682 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 16:06:19,469 INFO 38682 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 16:06:19,469 INFO 38682 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:15:18,403 INFO 42418 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 33281599ms at 2024-07-02 04:30:00.002
+2024-07-01 19:15:18,403 INFO 42418 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 17081597ms at 2024-07-02 00:00:00.000
+2024-07-01 19:15:18,404 INFO 42418 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 17082597ms at 2024-07-02 00:00:01.001
+2024-07-01 19:15:18,228 INFO 42421 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:15:18,228 INFO 42421 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:15:18,228 INFO 42421 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:15:51,797 INFO 42433 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:15:51,797 INFO 42433 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:15:51,797 INFO 42433 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:16:32,929 INFO 42456 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:16:32,929 INFO 42456 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:16:32,929 INFO 42456 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:17:20,181 INFO 42474 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:17:20,181 INFO 42474 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:17:20,181 INFO 42474 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:17:58,498 INFO 42495 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:17:58,498 INFO 42495 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:17:58,498 INFO 42495 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:19:01,239 INFO 42510 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:19:01,239 INFO 42510 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:19:01,239 INFO 42510 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:19:19,706 INFO 42521 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:19:19,706 INFO 42521 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:19:19,706 INFO 42521 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:19:26,837 INFO 42526 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:19:26,837 INFO 42526 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:19:26,837 INFO 42526 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2024-07-01 19:42:44,432 INFO 43419 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 31635570ms at 2024-07-02 04:30:00.002
+2024-07-01 19:42:44,432 INFO 43419 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 15435568ms at 2024-07-02 00:00:00.000
+2024-07-01 19:42:44,432 INFO 43419 [Timer] /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 15436568ms at 2024-07-02 00:00:01.000
+2024-07-01 19:42:44,283 INFO 43422 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2024-07-01 19:42:44,284 INFO 43422 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/clean_log.js
+2024-07-01 19:42:44,284 INFO 43422 [egg-schedule]: register schedule /Users/taohao/Vite/egg/egg-example/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

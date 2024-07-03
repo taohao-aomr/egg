@@ -1,0 +1,49 @@
+{
+  "name": "ali-rds",
+  "version": "5.1.2",
+  "description": "Aliyun RDS client",
+  "main": "lib/client.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "contributor": "git-contributor",
+    "test": "egg-bin test",
+    "ci": "npm run lint && egg-bin cov && npm run prepublishOnly",
+    "lint": "eslint src test --cache",
+    "build": "tsc -p ./tsconfig.json",
+    "clean": "tsc --build --clean",
+    "prepublishOnly": "npm run clean && npm run build"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@eggjs/tsconfig": "^1.3.2",
+    "@types/mocha": "^10.0.1",
+    "@types/mysql": "^2.15.21",
+    "@types/node": "^18.14.6",
+    "egg-bin": "^6.1.2",
+    "eslint": "^8.29.0",
+    "eslint-config-egg": "^12.1.0",
+    "git-contributor": "^2.0.0",
+    "typescript": "^4.9.5"
+  },
+  "homepage": "https://github.com/ali-sdk/ali-rds",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ali-sdk/ali-rds.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ali-sdk/ali-rds/issues"
+  },
+  "keywords": [
+    "ali-rds",
+    "mysql"
+  ],
+  "engines": {
+    "node": ">= 14.17.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (https://github.com/fengmk2)",
+  "license": "MIT"
+}
